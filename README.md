@@ -2,6 +2,7 @@
 
 ![flashml](https://user-images.githubusercontent.com/45726271/141427996-262fdb57-59e5-4969-b973-2b0807e212be.png)
 
+https://pypi.org/project/flashML/0.0.1/
 
 flashML is a AutoML Python library that finds most accurate machine learning models automatically and efficiently.
 It frees users from selecting models and hyper-parameters for each model.
