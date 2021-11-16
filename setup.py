@@ -15,12 +15,12 @@ with open("README.md", "r") as fh:
 
 setup(
   name='flashML',
-  version='0.0.1',
+  version='0.0.3',
   description='AutoML tool',
   long_description=long_description + '\n\n' + open('CHANGELOG.txt').read(),
   long_description_content_type="text/markdown",
   url='https://github.com/omchaithanyav/flashML',
-  author='Om Chaithanya V',
+  author='Om Chaithanya V, Sai Prakash Y',
   author_email='vomchaithanya@gmail.com',
   license='MIT', 
   classifiers=classifiers,
