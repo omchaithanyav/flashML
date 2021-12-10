@@ -1,6 +1,7 @@
 # flashML - AutoML tool
 
-![flashml](https://user-images.githubusercontent.com/45726271/141427996-262fdb57-59e5-4969-b973-2b0807e212be.png)
+![the-flash-logo-4k-minimalism-red-background-creative](https://user-images.githubusercontent.com/45726271/145534435-45c6c6a2-389d-4adb-8df5-493858bc9b49.png)
+
 
 https://pypi.org/project/flashML/
 
